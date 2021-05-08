@@ -2,6 +2,8 @@
 - 👀 I’m interested in computer ,both hardwares & softwares.
 - 🌱 I’m currently learning Java, python, threading.
 - 📫 How to reach me : mrxun1997@gmail.com
+- 💯 Most system is Linux, No rebuttal accepted.
+
 
 <!---
 Mrxun-JN/Mrxun-JN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
